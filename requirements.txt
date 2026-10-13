@@ -1,0 +1,8 @@
+# Install a PyTorch build matching your OS/CUDA first; see https://pytorch.org/get-started/locally/
+monai
+nibabel
+scikit-learn
+pandas
+matplotlib
+tqdm
+jupyter
