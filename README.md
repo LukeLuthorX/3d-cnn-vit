@@ -10,7 +10,7 @@ The task is formulated as three-class classification using clinical labels: **Co
 
 ## Architecture
 
-![Hybrid 3D-CNN and ViT architecture](docs/architecture.png)
+![Hybrid 3D-CNN and ViT architecture](architecture.png)
 
 
 
